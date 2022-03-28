@@ -1,0 +1,11 @@
+#include <iostream>
+
+using std::cin;
+using std::cout;
+using std::endl;
+
+int main() // Its a main function
+
+{
+    return 0;
+}
